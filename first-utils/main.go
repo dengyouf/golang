@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"golang/utils"
+	"github.com/dengyouf/golang/utils"
 )
 
 func main() {
